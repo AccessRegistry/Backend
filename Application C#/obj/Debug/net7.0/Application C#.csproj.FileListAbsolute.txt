@@ -1,0 +1,15 @@
+C:\Users\felip\Downloads\Backend\Application C#\bin\Debug\net7.0\Application C#.exe
+C:\Users\felip\Downloads\Backend\Application C#\bin\Debug\net7.0\Application C#.deps.json
+C:\Users\felip\Downloads\Backend\Application C#\bin\Debug\net7.0\Application C#.runtimeconfig.json
+C:\Users\felip\Downloads\Backend\Application C#\bin\Debug\net7.0\Application C#.dll
+C:\Users\felip\Downloads\Backend\Application C#\bin\Debug\net7.0\Application C#.pdb
+C:\Users\felip\Downloads\Backend\Application C#\obj\Debug\net7.0\Application C#.csproj.AssemblyReference.cache
+C:\Users\felip\Downloads\Backend\Application C#\obj\Debug\net7.0\Application C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Downloads\Backend\Application C#\obj\Debug\net7.0\Application C#.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\Backend\Application C#\obj\Debug\net7.0\Application C#.AssemblyInfo.cs
+C:\Users\felip\Downloads\Backend\Application C#\obj\Debug\net7.0\Application C#.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\Backend\Application C#\obj\Debug\net7.0\Application C#.dll
+C:\Users\felip\Downloads\Backend\Application C#\obj\Debug\net7.0\refint\Application C#.dll
+C:\Users\felip\Downloads\Backend\Application C#\obj\Debug\net7.0\Application C#.pdb
+C:\Users\felip\Downloads\Backend\Application C#\obj\Debug\net7.0\Application C#.genruntimeconfig.cache
+C:\Users\felip\Downloads\Backend\Application C#\obj\Debug\net7.0\ref\Application C#.dll
